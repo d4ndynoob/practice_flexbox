@@ -101,6 +101,7 @@ body{
         width: 85%;
         height: 100%;
         margin: 80px auto;
+        row-gap: 15px;
     }
     .tarjeta-1{
         grid-column: 1/-1;
